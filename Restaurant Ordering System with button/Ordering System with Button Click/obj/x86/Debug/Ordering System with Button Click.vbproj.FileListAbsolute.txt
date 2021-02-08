@@ -1,0 +1,31 @@
+D:\FOLDERS\Albert\VB Projects\Ordering System with Button Click\Ordering System with Button Click\bin\Debug\Ordering System with Button Click.exe
+D:\FOLDERS\Albert\VB Projects\Ordering System with Button Click\Ordering System with Button Click\bin\Debug\Ordering System with Button Click.pdb
+D:\FOLDERS\Albert\VB Projects\Ordering System with Button Click\Ordering System with Button Click\bin\Debug\Ordering System with Button Click.xml
+D:\FOLDERS\Albert\VB Projects\Ordering System with Button Click\Ordering System with Button Click\obj\x86\Debug\Ordering_System_with_Button_Click.Form1.resources
+D:\FOLDERS\Albert\VB Projects\Ordering System with Button Click\Ordering System with Button Click\obj\x86\Debug\Ordering_System_with_Button_Click.Resources.resources
+D:\FOLDERS\Albert\VB Projects\Ordering System with Button Click\Ordering System with Button Click\obj\x86\Debug\Ordering System with Button Click.vbproj.GenerateResource.Cache
+D:\FOLDERS\Albert\VB Projects\Ordering System with Button Click\Ordering System with Button Click\obj\x86\Debug\Ordering System with Button Click.exe
+D:\FOLDERS\Albert\VB Projects\Ordering System with Button Click\Ordering System with Button Click\obj\x86\Debug\Ordering System with Button Click.xml
+D:\FOLDERS\Albert\VB Projects\Ordering System with Button Click\Ordering System with Button Click\obj\x86\Debug\Ordering System with Button Click.pdb
+C:\Users\Wiseman Chris\Desktop\Ordering System with Button Click-20210128T094402Z-001\Ordering System with Button Click\bin\Debug\Ordering System with Button Click.exe
+C:\Users\Wiseman Chris\Desktop\Ordering System with Button Click-20210128T094402Z-001\Ordering System with Button Click\bin\Debug\Ordering System with Button Click.pdb
+C:\Users\Wiseman Chris\Desktop\Ordering System with Button Click-20210128T094402Z-001\Ordering System with Button Click\bin\Debug\Ordering System with Button Click.xml
+C:\Users\Wiseman Chris\Desktop\Ordering System with Button Click-20210128T094402Z-001\Ordering System with Button Click\obj\x86\Debug\Ordering System with Button Click.vbprojAssemblyReference.cache
+C:\Users\Wiseman Chris\Desktop\Ordering System with Button Click-20210128T094402Z-001\Ordering System with Button Click\obj\x86\Debug\Ordering_System_with_Button_Click.Form1.resources
+C:\Users\Wiseman Chris\Desktop\Ordering System with Button Click-20210128T094402Z-001\Ordering System with Button Click\obj\x86\Debug\Ordering_System_with_Button_Click.Resources.resources
+C:\Users\Wiseman Chris\Desktop\Ordering System with Button Click-20210128T094402Z-001\Ordering System with Button Click\obj\x86\Debug\Ordering System with Button Click.vbproj.GenerateResource.cache
+C:\Users\Wiseman Chris\Desktop\Ordering System with Button Click-20210128T094402Z-001\Ordering System with Button Click\obj\x86\Debug\Ordering System with Button Click.vbproj.CoreCompileInputs.cache
+C:\Users\Wiseman Chris\Desktop\Ordering System with Button Click-20210128T094402Z-001\Ordering System with Button Click\obj\x86\Debug\Ordering System with Button Click.exe
+C:\Users\Wiseman Chris\Desktop\Ordering System with Button Click-20210128T094402Z-001\Ordering System with Button Click\obj\x86\Debug\Ordering System with Button Click.xml
+C:\Users\Wiseman Chris\Desktop\Ordering System with Button Click-20210128T094402Z-001\Ordering System with Button Click\obj\x86\Debug\Ordering System with Button Click.pdb
+C:\Users\Wiseman Chris\Desktop\Restaurant Ordering System with Button Click\Ordering System with Button Click\bin\Debug\Ordering System with Button Click.exe
+C:\Users\Wiseman Chris\Desktop\Restaurant Ordering System with Button Click\Ordering System with Button Click\bin\Debug\Ordering System with Button Click.pdb
+C:\Users\Wiseman Chris\Desktop\Restaurant Ordering System with Button Click\Ordering System with Button Click\bin\Debug\Ordering System with Button Click.xml
+C:\Users\Wiseman Chris\Desktop\Restaurant Ordering System with Button Click\Ordering System with Button Click\obj\x86\Debug\Ordering System with Button Click.vbprojAssemblyReference.cache
+C:\Users\Wiseman Chris\Desktop\Restaurant Ordering System with Button Click\Ordering System with Button Click\obj\x86\Debug\Ordering_System_with_Button_Click.Form1.resources
+C:\Users\Wiseman Chris\Desktop\Restaurant Ordering System with Button Click\Ordering System with Button Click\obj\x86\Debug\Ordering_System_with_Button_Click.Resources.resources
+C:\Users\Wiseman Chris\Desktop\Restaurant Ordering System with Button Click\Ordering System with Button Click\obj\x86\Debug\Ordering System with Button Click.vbproj.GenerateResource.cache
+C:\Users\Wiseman Chris\Desktop\Restaurant Ordering System with Button Click\Ordering System with Button Click\obj\x86\Debug\Ordering System with Button Click.vbproj.CoreCompileInputs.cache
+C:\Users\Wiseman Chris\Desktop\Restaurant Ordering System with Button Click\Ordering System with Button Click\obj\x86\Debug\Ordering System with Button Click.exe
+C:\Users\Wiseman Chris\Desktop\Restaurant Ordering System with Button Click\Ordering System with Button Click\obj\x86\Debug\Ordering System with Button Click.xml
+C:\Users\Wiseman Chris\Desktop\Restaurant Ordering System with Button Click\Ordering System with Button Click\obj\x86\Debug\Ordering System with Button Click.pdb
